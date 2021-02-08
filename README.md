@@ -1,2 +1,2 @@
 # PaintCursor
-Ugly Paint Cursor
+Beautiful Paint Cursor
