@@ -14,7 +14,5 @@ Beautiful Paint Cursor
 ![text](https://cdn.discordapp.com/attachments/521411540818198538/808783560487469117/vertical.png)
 ![text](https://cdn.discordapp.com/attachments/521411540818198538/808783567114076220/write.png)
 ![text](https://cdn.discordapp.com/attachments/521411540818198538/808783523485188125/horizontal.png)
-
-
-
-
+![text](https://cdn.discordapp.com/attachments/521411540818198538/808783497987620894/deplacer.png)
+![text](https://cdn.discordapp.com/attachments/521411540818198538/808783517336338452/help.png)
